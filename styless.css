@@ -216,6 +216,7 @@ figcaption{
 .religion{
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap-reverse;
   margin-left: 10px;
 }
 .advantages img{
