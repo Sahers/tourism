@@ -99,14 +99,6 @@ html{
 .nav:hover > span:nth-child(2){
   display: none;
 }
-.nav:hover > span:first-child{
-  top: 5px;
-  transform: rotate(-45deg);
-}
-.nav:hover > span:last-child{
-  top: 5px;
-  transform: rotate(45deg);
-} 
 .links{
   position: relative;
 }
