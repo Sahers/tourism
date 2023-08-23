@@ -133,6 +133,9 @@ html{
 .links ul li:hover{
   padding-right: 15px;
 }
+.nav:hover ul{
+  display: block;
+}
 .active{
   z-index: 2!important;
   display: block !important;
