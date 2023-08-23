@@ -191,6 +191,7 @@ html{
 }
 .more{
   text-align: right;
+  font-size: 20px; 
 }
 .footer{
   background-color:var(--back-color);
