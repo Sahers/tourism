@@ -28,6 +28,10 @@ html{
   .container {
     width: 970px;
   }
+  .arrow{
+    width: 6vw;
+    height: 6vw;
+  }
 }
 /* Large */
 @media (min-width: 1200px) {
@@ -49,6 +53,7 @@ html{
   right: 40px;
   bottom: 40px;
   position: fixed;
+  cursor: pointer;
   opacity: 0;
 }
 .top{
