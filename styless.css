@@ -214,6 +214,7 @@ figcaption{
   width: 300px;
 }
 .religion{
+  display: flex;
   justify-content: space-between;
 }
 .religion img{
