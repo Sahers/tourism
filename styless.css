@@ -232,3 +232,8 @@ figcaption{
 .copyright{
   direction: rtl;
 }
+@media (max-width: 767px){
+  .religion{
+    flex-wrap: wrap;
+  }
+}
